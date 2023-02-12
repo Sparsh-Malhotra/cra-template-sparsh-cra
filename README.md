@@ -5,5 +5,5 @@ A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React
 ## Usage
 
 ```bash
-npx create-react-app --template tailwindcss
+npx create-react-app --template sparsh-cra
 
