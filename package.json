@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-sparsh-cra",
+  "version": "1.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "tailwind"
+  ],
+  "description": "A streamlined Tailwind CSS template for Create React App",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sparsh-Malhotra/cra-template-sparsh-cra.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/Sparsh-Malhotra/cra-template-sparsh-cra/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
